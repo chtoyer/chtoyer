@@ -1,4 +1,8 @@
-'Hello,world!'![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anna
+### 'Hello,world!'![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anna
+#### I'm beginner QA-engineer
+I published my educational projects from Yandex Practicum in my portfolio.  
+* 🖥️  See my portfolio at [Portfolio](http://docs.google.com/spreadsheets/d/1eXLUtnducwetkaoOx7UzqMmNfxnyJgxfunANM6HPfU0/edit?pli=1&gid=986705215#gid=986705215)
+
 
 <!--
 **chtoyer/chtoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
